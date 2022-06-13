@@ -1,4 +1,5 @@
-https://zenodo.org/badge/503078933.svg
+[![DOI](https://zenodo.org/badge/503078933.svg)](https://zenodo.org/badge/latestdoi/503078933)
+
 
 The repository includes two folders.
 
